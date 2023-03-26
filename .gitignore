@@ -1,0 +1,7 @@
+node_modules
+dist
+/.vscode/
+.eslintcache
+*.local
+*.log
+/docs/.vitepress/cache

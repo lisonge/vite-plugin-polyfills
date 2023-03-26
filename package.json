@@ -1,0 +1,20 @@
+{
+    "name": "vite-plugin-polyfills",
+    "version": "1.0.0",
+    "description": "vite-plugin-polyfills",
+    "main": "index.mjs",
+    "type": "module",
+    "scripts": {},
+    "keywords": [
+        "vite",
+        "vite-plugin",
+        "polyfills",
+        "core-js"
+    ],
+    "author": "lisonge",
+    "license": "MIT",
+    "volta": {
+        "node": "16.19.1"
+    },
+    "packageManager": "pnpm@7.30.0"
+}
