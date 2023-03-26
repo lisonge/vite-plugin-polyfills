@@ -1,6 +1,6 @@
 {
     "name": "vite-plugin-polyfills",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "description": "vite-plugin-polyfills",
     "main": "index.mjs",
     "type": "module",
